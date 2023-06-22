@@ -4,8 +4,6 @@
 
 - Installation
 - Usage
-- Contributing
-- License
 
 ## Installation
 
